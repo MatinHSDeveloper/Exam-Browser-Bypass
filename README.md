@@ -48,7 +48,7 @@ Exam-Browser-Bypass/
 
 ## 👨‍💻 ساخته شده توسط
 
-**Matin Hosseini Sadr**
+**Matin Haji Seftjani**
 
 [GitHub](https://github.com/MatinHSDeveloper)
 
